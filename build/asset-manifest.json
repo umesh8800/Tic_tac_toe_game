@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82182a80.chunk.css",
+    "main.js": "/static/js/main.b86a613b.chunk.js",
+    "main.js.map": "/static/js/main.b86a613b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d2aa9c57.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d2aa9c57.js.map",
+    "static/js/2.7ead2434.chunk.js": "/static/js/2.7ead2434.chunk.js",
+    "static/js/2.7ead2434.chunk.js.map": "/static/js/2.7ead2434.chunk.js.map",
+    "static/js/3.777a014f.chunk.js": "/static/js/3.777a014f.chunk.js",
+    "static/js/3.777a014f.chunk.js.map": "/static/js/3.777a014f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.82182a80.chunk.css.map": "/static/css/main.82182a80.chunk.css.map",
+    "static/js/2.7ead2434.chunk.js.LICENSE.txt": "/static/js/2.7ead2434.chunk.js.LICENSE.txt",
+    "static/media/Cross.058af5b2.svg": "/static/media/Cross.058af5b2.svg",
+    "static/media/Right.b2777665.svg": "/static/media/Right.b2777665.svg",
+    "static/media/error.19d5e99e.wav": "/static/media/error.19d5e99e.wav",
+    "static/media/move.d51b4b5b.wav": "/static/media/move.d51b4b5b.wav",
+    "static/media/victory.f30c40b4.wav": "/static/media/victory.f30c40b4.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2aa9c57.js",
+    "static/js/2.7ead2434.chunk.js",
+    "static/css/main.82182a80.chunk.css",
+    "static/js/main.b86a613b.chunk.js"
+  ]
+}

@@ -1,0 +1,140 @@
+html{
+  background-color: black;
+}
+
+
+
+td{
+  border: 1px solid white;
+  text-align: left;
+  padding: 55px;
+}
+
+.table_wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 2rem;
+}
+
+table{
+  background-color: wheat;
+  border-radius: 10px;
+  border: 5px solid white;
+}
+
+td:hover{
+  border: 5px solid white;
+  box-shadow: 2px,2px,20px,0px #590303;
+  border-radius: 3px;
+
+}
+.container{
+  text-align: center;
+}
+
+h1{
+  color: white;
+  font-size: 40px;
+}
+.winner{
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+
+}
+
+.player{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.player div {
+  display: flex;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+  background-color: wheat;
+}
+
+.player1{
+  margin-right: 20px;
+}
+
+.clear{
+  padding: 18px;
+  background-color: wheat;
+  border: 2px solid white;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.clear:hover{
+  padding: 22px;
+  box-shadow: 1px 1px 18px 3px #d4d4d2;
+}
+
+.turn{
+  background-color: green !important;
+}
+
+
+@media (min-width:770px){
+
+  td{
+    padding: 46px;
+  }
+  h1{
+    font-size: 32px;
+  }
+  .table_wrapper{
+    margin-top: 1rem;
+  }
+  .player{
+    margin-top:1rem;
+  }
+}
+
+@media (max-width:770px){
+
+  td{
+    padding: 46px;
+  }
+  h1{
+    font-size: 32px;
+  }
+  .table_wrapper{
+    margin-top: 1rem;
+  }
+  .player{
+    margin-top:1rem;
+  }
+}
+
+@media (max-width:405px){
+
+  td{
+    padding: 40px;
+  }
+  h1{
+    font-size: 26px;
+  }
+  
+}
+
+@media (max-width:370px){
+
+  td{
+    padding: 30px;
+  }
+  h1{
+    font-size: 22px;
+  }
+  .clear{
+    padding: 14px;
+  }
+  
+}
